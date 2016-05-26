@@ -1,9 +1,9 @@
 {
-  "name": "gio-flippy",
-  "version": "0.1.1",
-  "authors": "Giovanny QuIntero",
+  "name": "card-flip",
+  "version": "0.1.2",
+  "authors": "Giovanny Quintero",
   "description": "A flippy directive based on jQuery flip.",
-  "main": "kk-flippy.directive.js",
+  "main": "card-flippy.directive.js",
   "keywords": [
     "angular",
     "bootstrap",
@@ -29,13 +29,13 @@
     "type": "git",
     "url": "https://github.com/giovannyquin/flippy.git"
   },
-  "_release": "0.1.1",
+  "_release": "0.1.2",
   "_resolution": {
     "type": "version",
-    "tag": "0.1.1",
+    "tag": "0.1.2",
     "commit": "bcd8a5c7f574566ee2c6dbcdcca8cc5114fe0349"
   },
   "_source": "https://github.com/giovannyquin/flippy.git",
-  "_target": "=0.1.1",
-  "_originalSource": "gio-flippy"
+  "_target": "=0.1.2",
+  "_originalSource": "card-flip"
 }
