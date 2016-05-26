@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('card-flip')
+angular.module('cardFlip')
   .directive('cardFlip', function () {
     return {
       restrict: 'EA',
@@ -44,11 +44,6 @@ angular.module('card-flip')
           };
 
           fillObject();
-
-          /*scope.$watch(scope, function(newValue) {
-
-
-          }, true);*/
       }
     };
   });

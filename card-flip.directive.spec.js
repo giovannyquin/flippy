@@ -3,7 +3,7 @@
 describe('Directive: cardFlip', function () {
 
   // load the directive's module and view
-  beforeEach(module('card-flip'));
+  beforeEach(module('cardFlip'));
 
   var element, scope;
 
