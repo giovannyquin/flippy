@@ -1,0 +1,41 @@
+{
+  "name": "gio-flippy",
+  "version": "0.1.1",
+  "authors": "Giovanny QuIntero",
+  "description": "A flippy directive based on jQuery flip.",
+  "main": "kk-flippy.directive.js",
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "jqueryr",
+    "directive",
+    "flippy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nnattawat/flip",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "flip": ">=1.0.20",
+    "jquery": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nnattawat/flip.git"
+  },
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.1",
+    "commit": "e7f7d9c2141b165a46c7c5fcbea54fe943d26afb"
+  },
+  "_source": "https://github.com/jlopezh/angular-bootstrap-datetimepicker-directive.git",
+  "_target": "=0.1.4",
+  "_originalSource": "jlopezh-angular-bootstrap-datetimepicker-directive"
+}
