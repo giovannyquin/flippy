@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "authors": "Giovanny Quintero",
   "description": "A flippy directive based on jQuery flip.",
-  "main": "card-flippy.directive.js",
+  "main": "card-flip.directive.js",
   "keywords": [
     "angular",
     "bootstrap",
