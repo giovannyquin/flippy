@@ -1,9 +1,9 @@
 'use strict';
 
-describe('Directive: kkFlippy', function () {
+describe('Directive: cardFlip', function () {
 
   // load the directive's module and view
-  beforeEach(module('kynectApp'));
+  beforeEach(module('cardFlip'));
 
   var element, scope;
 
@@ -12,7 +12,7 @@ describe('Directive: kkFlippy', function () {
   }));
 
   it('should make hidden element visible', inject(function ($compile) {
-    element = angular.element('<kk-flippy></kk-flippy>');
+    element = angular.element('<card-flip></card-flip>');
     element = $compile(element)(scope);
     scope.$apply();
     expect(element.text()).toBe('this is the kkFlippy directive');
