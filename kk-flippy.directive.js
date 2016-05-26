@@ -1,7 +1,7 @@
 'use strict';
 
-angular.module('kynectApp')
-  .directive('kkFlippy', function () {
+angular.module('card-flip')
+  .directive('cardFlip', function () {
     return {
       restrict: 'EA',
         scope: {
