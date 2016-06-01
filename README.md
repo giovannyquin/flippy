@@ -5,7 +5,7 @@ Angular directive for [jQuery-Flip](https://nnattawat.github.io/flip/)
 Usage
 -----
 
-- Using [bower](http://bower.io/) to install it. `bower card-flip`
+- Using [bower](http://bower.io/) to install it. `bower install card-flip`
 - Add `jquery`, `angular`and `jQuery Flip` to your code.
 
 ```html
