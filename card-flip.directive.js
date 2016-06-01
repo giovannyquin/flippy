@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('cardFlip')
+angular.module('cardFlip', [])
   .directive('cardFlip', function () {
     return {
       restrict: 'EA',
