@@ -31,7 +31,7 @@ as either a `<div>` attribute or a `<card-flip>` element.
 ```
 
 ### Attributes ###
-`trigger`: optional `String` containing any of these options. 'click','hover','manual'. Using manual means that you have to activate it via javascript. You must use it of the next way, with an card id $('#card').flip('toggle'); .
+ - `trigger`: optional `String` containing any of these options. 'click','hover','manual'. Using manual means that you have to activate it via javascript. You must use it of the next way, with an card id $('#card').flip('toggle'); .
  - `speed` Duration of the flipping animation in miliseconds. Higher means slower. Just Integer numbers
  - `axis` The axis that you want to rotate around
  - `reverse` Set to true if you want to reverse the direction of the flip.
