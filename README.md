@@ -9,9 +9,6 @@ Usage
 - Add `jquery`, `angular`and `jQuery Flip` to your code.
 
 ```html
-    <link rel="stylesheet" href="../bower_components/slick-carousel/slick/slick.css">
-    <link rel="stylesheet" href="../bower_components/slick-carousel/slick/slick-theme.css">
-    
     <script src="../bower_components/jquery/jquery.js"></script>
     <script src="../bower_components/angular/angular.js"></script>
     <script src="../bower_components/flip/dist/jquery.flip.js"></script>
