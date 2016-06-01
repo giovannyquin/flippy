@@ -1,6 +1,6 @@
 Card-flip
 ======================
-Angular directive for [jQuery-Flip]( https://nnattawat.github.io/flip/
+Angular directive for [jQuery-Flip](https://nnattawat.github.io/flip/)
 
 Usage
 -----
@@ -28,14 +28,14 @@ an angular directive. It can be specified in your HTML
 as either a `<div>` attribute or a `<card-flip>` element.
 
 ```html
-    <card-flip trigger=”click” axis=”y” speed=1000>
+    <card-flip trigger=â€clickâ€ axis=â€yâ€ speed=1000>
     ...
     </ card-flip>
 ```
 
 ### Attributes ###
-`trigger`: optional `String` containing any of these options. 'click','hover','manual'. Using manual means that you have to activate it via javascript. You must use it of the next way, with an card id $('#card').flip('toggle'); .
+`trigger`: optional `String` containing any of these options. 'click','hover','manual'. UsingÂ manualÂ means that you have to activate it via javascript. You must use it of the next way, with an card id $('#card').flip('toggle'); .
  - `speed` Duration of the flipping animation in miliseconds. Higher means slower. Just Integer numbers
  - `axis` The axis that you want to rotate around
- - `reverse` Set to true if you want to reverse the direction of the flip.
+ - `reverse` Set toÂ trueÂ if you want to reverse the direction of the flip.
 
